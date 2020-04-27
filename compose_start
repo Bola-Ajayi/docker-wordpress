@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Launch all of the dockers
+sudo docker-compose -f docker-compose.yml up &
